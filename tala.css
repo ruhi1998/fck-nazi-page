@@ -1,0 +1,98 @@
+body {
+
+
+    height: 100vh;
+    
+    background: linear-gradient(to bottom left,#2e3add ,#0a0a0a);
+    
+}
+
+
+.header {
+    text-align: center;
+    
+    padding-bottom: 0cm;
+
+}
+.home {
+    float: right;
+    padding-top: 1.5cm;
+    padding-right: 1cm;
+
+}
+p {
+    color: aliceblue;
+    font-size: 20px;
+    
+
+}
+img {
+    width: 350px;
+    height: 200px;
+    object-fit: fill;
+    
+}
+
+.boxes .box {
+    
+    float:right;
+    width: 20%;
+    margin-left: 1cm;
+    padding-top: 1cm;
+    margin-top: 1cm;
+     margin-right: 0cm;
+    padding-right: 1cm;
+    text-align: center;
+   
+   
+  
+
+}
+.container1 {
+    width: 90%;
+    padding-top: 0.75cm;
+    padding-right: 1.75cm;
+    float: right;
+    padding-bottom: 2cm;
+}
+a{
+    color: aliceblue;
+}
+
+.bold p{
+   margin-left: 3cm;
+    text-align: center;
+ 
+   
+    font-family: "Playfair Display";
+ 
+}
+.bold {
+    float: center;
+    margin-top: 0cm;
+    margin-bottom: 0cm;
+    background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
+    radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
+}
+a {
+    font-size: 18px;
+}
+
+
+.flag1 {
+    float: right;
+    width: 80%;
+    margin-top: 5cm;
+    margin-right: 4cm;
+    margin-bottom: 3cm;
+
+    
+}
+
+.text10 {
+    float: center;
+    padding-top: 1.25cm ;
+    direction: rtl;
+   
+    text-align: center;
+}

@@ -1,0 +1,95 @@
+body {
+
+
+    height: 100vh;
+    
+    background: linear-gradient(to bottom left,#2e3add ,#0a0a0a);
+    
+}
+.clearfix::after {
+    content: '';
+    clear: both;
+    display: table;
+   }
+
+.Home {
+    color: aliceblue;
+    padding-top: 0.5cm;
+    margin-top: 0.5cm;
+    float: right;
+    padding-right: 2cm;
+    font-size: 20px;
+    margin-bottom: 1cm;
+}
+
+
+.header{
+    padding-top: 2%;
+    text-align: center;
+    border-bottom: 2px solid  white;
+    font-size: 200%;
+}
+
+p {
+    color: aliceblue;
+    direction: rtl;
+}
+.Bold {
+    padding-top: 2cm;
+    text-align: center;
+    direction: rtl;
+    border-bottom: #fff solid 1px;
+    
+    font-size: 20px;
+
+}
+
+.Bold .container4 {
+    padding-top: 0.5cm;
+    padding: 0.5cm  5cm 0.5cm 5cm;
+    text-align: center;
+    direction: rtl;
+}
+
+.boxes .box {
+    float: right;
+    width: 29%;
+    direction: rtl;
+    
+    padding-top: 1cm;
+    
+     margin-right: 1%;
+    
+    
+    
+    font-size: 20px;
+    text-align: center;
+    color: rgb(228, 232, 235);
+    
+
+
+
+}
+.container{
+   float: right; 
+    width: 90%;
+    padding-top: 2cm;
+    padding-right: 3cm;
+   
+}
+
+
+img {
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.flag1 {
+    float: right;
+    width: 80%;
+    margin-top: 2cm;
+    margin-right: 4cm;
+    margin-bottom: 3cm;
+    
+}

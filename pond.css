@@ -1,0 +1,63 @@
+body {
+
+
+    height: 100vh;
+    
+    background: linear-gradient(to bottom left,#2e3add ,#0a0a0a);
+    
+}
+
+.clearfix::after {
+    content: '';
+    clear: both;
+    display: table;
+   }
+.header {
+    text-align: center;
+    border-bottom: #fff solid 1px;
+}
+.Text  {
+    text-align: right;
+    direction: rtl;
+    margin-right: 1.5cm;
+    margin-top: 5%;
+    
+    
+   
+    font-size: 20px;
+}
+.Text .container1 {
+    width: 75%;
+}
+
+
+.foto {
+    float: left;
+    padding-top: 4cm;
+    padding-right: 0.5cm;
+}
+
+.foto img {
+    width: 400px;
+    height: 200px;
+}
+
+.foto .container2 {
+width: 20%;
+margin-top: 3cm;
+padding-top: 6cm;
+padding-left: 1cm;
+}
+.flag1 {
+    float: right;
+    width: 80%;
+    margin-top: 5cm;
+    margin-right: 4cm;
+    margin-bottom: 3cm;
+    
+}
+.home {
+    margin-right: 2cm;
+    margin-bottom: 3cm;
+    float: right;
+}

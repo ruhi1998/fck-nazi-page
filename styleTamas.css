@@ -1,0 +1,39 @@
+body {
+
+    height: 100vh;
+    background: linear-gradient(to bottom left,#2e3add ,#0a0a0a);
+    
+
+}
+
+
+.heder{
+    padding-top: 2%;
+    text-align: center;
+    border-bottom: 2px solid  white;
+}
+
+ .heder2{
+    padding-top: 5%;
+    margin-top: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+   
+    
+}
+.foto {
+    float: right;
+    margin-top: 5%;
+    padding-right: 45%;
+    margin-bottom: 3%;
+}
+.flag{
+    margin-top: 3%;
+}
+.text {
+    text-align: center;
+    direction: rtl;
+    color: aliceblue;
+    font-size: 22px;
+}
+

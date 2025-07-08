@@ -1,0 +1,67 @@
+body {
+
+
+    height: 100vh;
+    
+    background: linear-gradient(to bottom left,#2e3add ,#0a0a0a);
+    
+}
+
+
+.clearfix::after {
+    content: '';
+    clear: both;
+    display: table;
+   }
+.header{
+    text-align: center;
+    border-bottom: #fff solid 1px;
+    font-size: xx-large;
+}
+.Home {
+    float: right;
+    padding-top: 1cm;
+   
+    margin-right: 1cm;
+    padding-right: 1cm;
+    
+}
+
+
+.text {
+    text-align: right;
+    direction: rtl;
+    margin-right: 1.5cm;
+    margin-top: 5%;
+    
+    
+   
+    font-size: 20px;
+    
+
+}
+
+.foto {
+    float: left;
+    margin-top: 3cm;
+    margin-left: 1cm;
+}
+
+.text .container1 {
+    width: 75%;
+}
+
+.Boxes .box {
+    width: 20%;
+    float: right;
+    padding-top: 2cm;
+    padding-right: 2cm;
+    margin: 2cm;
+}
+.container2 {
+    padding-top: 3cm;
+}
+img {
+    width: 500px;
+    height: 300px;
+}

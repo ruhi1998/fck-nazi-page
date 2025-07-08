@@ -1,0 +1,47 @@
+body {
+
+
+    height: 100vh;
+    
+    background: linear-gradient(to bottom left,#2e3add ,#0a0a0a);
+    
+}
+
+.clearfix::after {
+    content: '';
+    clear: both;
+    display: table;
+   }
+.header {
+    text-align: center;
+    border-bottom: #fff solid 1px;
+}
+.home {
+    padding-top: 1cm;
+    padding-right: 1cm;
+    float: right;
+}
+.text {
+    text-align: right;
+    direction: rtl;
+    margin-right: 1.5cm;
+    margin-top: 5%;
+    
+    
+   
+    font-size: 20px;
+}
+.Text .container1 {
+    width: 75%;
+}
+.foto {
+    float: left;
+}
+
+.foto img {
+    width: 400px;
+    height: 200px;
+}
+p{
+    color: aliceblue;
+}
